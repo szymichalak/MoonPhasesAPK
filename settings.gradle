@@ -1,0 +1,2 @@
+rootProject.name='Moon_v3'
+include ':app'
